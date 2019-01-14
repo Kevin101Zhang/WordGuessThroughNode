@@ -1,0 +1,24 @@
+{
+  "name": "wordguessthroughnode",
+  "version": "1.0.0",
+  "description": "WordGuessThroughNode",
+  "main": "server.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node server.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Kevin101Zhang/WordGuessThroughNode.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Kevin101Zhang/WordGuessThroughNode/issues"
+  },
+  "homepage": "https://github.com/Kevin101Zhang/WordGuessThroughNode#readme",
+  "dependencies": {
+    "inquirer": "^6.2.1",
+    "mysql": "^2.16.0"
+  }
+}
